@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<offers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:str="http://exslt.org/strings" xmlns:iaiext="http://www.iai-shop.com/developers/iof/extensions.phtml" xmlns:php="http://php.net/xsl" version="1">
+<product id="307" currency="PLN" code_on_card="B-2008 PINK">
+    <category name="Women's/Slides"/>
+    <card url="https://hurtownia.butosklep.pl/product-eng-307-Womens-Foam-Flip-Flops-Crocs-EVA-Pink.feed10037.html"/>
+    <name>Women's Foam Flip Flops Crocs EVA Pink</name>
+    <long_description>&lt;p&gt; Women's flip-flops made of high-quality EVA foam material. Contoured insole and movable heel counter will ensure comfort. &lt;b&gt;When choosing the size, please suggest the size chart. Depending on the supplier, the flip-flops have different buttons - all black or black with the manufacturer's logo. &lt;/b&gt;&lt;/p&gt; &lt;p&gt;36-23/37-23.5/38-24.5/39-25/40-25.5/41-26 cm.&lt;/p&gt;</long_description>
+    <price_retail gross="19" netto="15.45"/>
+    <price_wholesale gross="19" netto="15.45" test=""/>
+    <sizes>
+      <size id="19" name="UK 3 1,2" code="307-19" quantity="3"/>
+    </sizes>
+    <images>
+      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/7/0/307_10.jpg"/>
+      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/7/0/307_8.jpg"/>
+      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/7/0/307_1.jpg"/>
+    </images>
+    <parameters>
+      <parameter name="Color">
+        <value name="Shades of pink"/>
+      </parameter>
+      <parameter name="Clasp">
+        <value name="Slip-on"/>
+      </parameter>
+      <parameter name="Outside material">
+        <value name="EVA material"/>
+      </parameter>
+      <parameter name="Insert">
+        <value name="EVA material"/>
+      </parameter>
+      <parameter name="Lining">
+        <value name="None"/>
+      </parameter>
+      <parameter name="Type of heel">
+        <value name="No heel"/>
+      </parameter>
+      <parameter name="Platform / Sole">
+        <value name="2,5 cm"/>
+      </parameter>
+      <parameter name="Insulation type">
+        <value name="No"/>
+      </parameter>
+    </parameters>
+    <size_chart name="36-23/37-23,5/38-24,5/39-25/40-25,5/41-26"/>
+  </product>
+  <product id="374" currency="PLN" code_on_card="LS-001 PINK">
+    <category name="Women's/Slides"/>
+    <card url="https://hurtownia.butosklep.pl/product-eng-374-Rubber-Flip-Flops-Lu-Boo-Pink.feed10037.html"/>
+    <name>Rubber Flip Flops Lu Boo Pink</name>
+    <long_description>&lt;p&gt;Lightweight rubber flip flops by Lu Boo. Get inspired by the gorgeous colors and create unique styles! &lt;/p&gt; &lt;p&gt;36-22.5/37-23.5/38-24.5/39-25/40-25.5/41-26 cm.&lt;/p&gt;</long_description>
+    <price_retail gross="9" netto="7.32"/>
+    <price_wholesale gross="8.61" netto="7" test=""/>
+    <sizes>
+      <size id="19" name="UK 3 1,2" code="374-19" quantity="28"/>
+      <size id="21" name="UK 4" code="374-21" quantity="15"/>
+    </sizes>
+    <images>
+      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/4/7/374_2.jpg"/>
+      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/4/7/374_3.jpg"/>
+      <image url=""/>
+    </images>
+    <parameters>
+      <parameter name="Color">
+        <value name="Shades of pink"/>
+      </parameter>
+      <parameter name="Clasp">
+        <value name="Slip-on"/>
+      </parameter>
+      <parameter name="Outside material">
+        <value name="Rubber"/>
+      </parameter>
+      <parameter name="Insert">
+        <value name="Caoutchouc"/>
+      </parameter>
+      <parameter name="Lining">
+        <value name="None"/>
+      </parameter>
+      <parameter name="Type of heel">
+        <value name="No heel"/>
+      </parameter>
+      <parameter name="Platform / Sole">
+        <value name="1,5 cm"/>
+      </parameter>
+      <parameter name="Insulation type">
+        <value name="No"/>
+      </parameter>
+    </parameters>
+    <size_chart name="36-22,5/37-23,5/38-24,5/39-25/40-25,5/41-26"/>
+  </product>
+  <product id="375" currency="PLN" code_on_card="LS-001 NAVY">
+    <category name="Women's/Slides"/>
+    <card url="https://hurtownia.butosklep.pl/product-eng-375-Rubber-Flip-Flops-Lu-Boo-Flip-Flops-Navy-Blue.feed10037.html"/>
+    <name>Rubber Flip Flops Lu Boo Flip Flops Navy Blue</name>
+    <long_description>&lt;p&gt;Lightweight rubber flip flops by Lu Boo. Get inspired by the gorgeous colors and create unique styles! &lt;/p&gt; &lt;p&gt;36-22.5/37-23.5/38-24.5/39-25/40-25.5/41-26 cm.&lt;/p&gt;</long_description>
+    <price_retail gross="9" netto="7.32"/>
+    <price_wholesale gross="8.61" netto="7" test=""/>
+    <sizes>
+      <size id="19" name="UK 3 1,2" code="375-19" quantity="13"/>
+    </sizes>
+    <images>
+      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/5/7/375_1.jpg"/>
+      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/5/7/375_3.jpg"/>
+      <image url=""/>
+    </images>
+    <parameters>
+      <parameter name="Color">
+        <value name="Shades of navy blue"/>
+      </parameter>
+      <parameter name="Clasp">
+        <value name="Slip-on"/>
+      </parameter>
+      <parameter name="Outside material">
+        <value name="Rubber"/>
+      </parameter>
+      <parameter name="Insert">
+        <value name="Caoutchouc"/>
+      </parameter>
+      <parameter name="Lining">
+        <value name="None"/>
+      </parameter>
+      <parameter name="Type of heel">
+        <value name="No heel"/>
+      </parameter>
+      <parameter name="Platform / Sole">
+        <value name="1,5 cm"/>
+      </parameter>
+      <parameter name="Insulation type">
+        <value name="No"/>
+      </parameter>
+    </parameters>
+    <size_chart name="36-22,5/37-23,5/38-24,5/39-25/40-25,5/41-26"/>
+  </product>
+  <product id="376" currency="PLN" code_on_card="LS-003 BLK">
+    <category name="Women's/Slides"/>
+    <card url="https://hurtownia.butosklep.pl/product-eng-376-Rubber-Flip-Flops-Lu-Boo-Black.feed10037.html"/>
+    <name>Rubber Flip Flops Lu Boo Black</name>
+    <long_description>&lt;p&gt;Lightweight rubber flip flops by Lu Boo. Get inspired by the gorgeous colors and create unique styles! &lt;/p&gt; &lt;p&gt;36-22.5/37-23.5/38-24.5/39-25/40-25.5/41-26 cm.&lt;/p&gt;</long_description>
+    <price_retail gross="9" netto="7.32"/>
+    <price_wholesale gross="8.61" netto="7" test=""/>
+    <sizes>
+      <size id="19" name="UK 3 1,2" code="376-19" quantity="16"/>
+    </sizes>
+    <images>
+      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/6/7/376_3.jpg"/>
+      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/6/7/376_2.jpg"/>
+      <image url=""/>
+    </images>
+    <parameters>
+      <parameter name="Color">
+        <value name="Multicolour"/>
+      </parameter>
+      <parameter name="Clasp">
+        <value name="Slip-on"/>
+      </parameter>
+      <parameter name="Outside material">
+        <value name="Rubber"/>
+      </parameter>
+      <parameter name="Insert">
+        <value name="Caoutchouc"/>
+      </parameter>
+      <parameter name="Lining">
+        <value name="None"/>
+      </parameter>
+      <parameter name="Type of heel">
+        <value name="No heel"/>
+      </parameter>
+      <parameter name="Platform / Sole">
+        <value name="1,5 cm"/>
+      </parameter>
+      <parameter name="Insulation type">
+        <value name="No"/>
+      </parameter>
+    </parameters>
+    <size_chart name="36-22,5/37-23,5/38-24,5/39-25/40-25,5/41-26"/>
+  </product>
+  <product id="377" currency="PLN" code_on_card="LS-002 PINK">
+    <category name="Women's/Slides"/>
+    <card url="https://hurtownia.butosklep.pl/product-eng-377-Rubber-Flip-Flops-Lu-Boo-Pink.feed10037.html"/>
+    <name>Rubber Flip Flops Lu Boo Pink</name>
+    <long_description>&lt;p&gt;Lightweight rubber flip flops by Lu Boo. Get inspired by the gorgeous colors and create unique styles! &lt;/p&gt; &lt;p&gt;36-22.5/37-23.5/38-24.5/39-25/40-25.5/41-26 cm.&lt;/p&gt;</long_description>
+    <price_retail gross="5" netto="4.07"/>
+    <price_wholesale gross="5" netto="4.07" test=""/>
+    <sizes>
+      <size id="19" name="UK 3 1,2" code="377-19" quantity="29"/>
+    </sizes>
+    <images>
+      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/7/7/377_3.jpg"/>
+      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/7/7/377_2.jpg"/>
+      <image url=""/>
+    </images>
+    <parameters>
+      <parameter name="Color">
+        <value name="Shades of pink"/>
+      </parameter>
+      <parameter name="Clasp">
+        <value name="Slip-on"/>
+      </parameter>
+      <parameter name="Outside material">
+        <value name="Rubber"/>
+      </parameter>
+      <parameter name="Insert">
+        <value name="Caoutchouc"/>
+      </parameter>
+      <parameter name="Lining">
+        <value name="None"/>
+      </parameter>
+      <parameter name="Type of heel">
+        <value name="No heel"/>
+      </parameter>
+      <parameter name="Platform / Sole">
+        <value name="1,5 cm"/>
+      </parameter>
+      <parameter name="Insulation type">
+        <value name="No"/>
+      </parameter>
+    </parameters>
+    <size_chart name="36-22,5/37-23,5/38-24,5/39-25/40-25,5/41-26"/>
+  </product>
+  </offers>
