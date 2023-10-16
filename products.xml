@@ -1,219 +1,190 @@
-<?xml version="1.0" encoding="utf-8"?>
-<offers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:str="http://exslt.org/strings" xmlns:iaiext="http://www.iai-shop.com/developers/iof/extensions.phtml" xmlns:php="http://php.net/xsl" version="1">
-<product id="307" currency="PLN" code_on_card="B-2008 PINK">
-    <category name="Women's/Slides"/>
-    <card url="https://hurtownia.butosklep.pl/product-eng-307-Womens-Foam-Flip-Flops-Crocs-EVA-Pink.feed10037.html"/>
-    <name>Women's Foam Flip Flops Crocs EVA Pink</name>
-    <long_description>&lt;p&gt; Women's flip-flops made of high-quality EVA foam material. Contoured insole and movable heel counter will ensure comfort. &lt;b&gt;When choosing the size, please suggest the size chart. Depending on the supplier, the flip-flops have different buttons - all black or black with the manufacturer's logo. &lt;/b&gt;&lt;/p&gt; &lt;p&gt;36-23/37-23.5/38-24.5/39-25/40-25.5/41-26 cm.&lt;/p&gt;</long_description>
-    <price_retail gross="19" netto="15.45"/>
-    <price_wholesale gross="19" netto="15.45" test=""/>
-    <sizes>
-      <size id="19" name="UK 3 1,2" code="307-19" quantity="3"/>
-    </sizes>
-    <images>
-      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/7/0/307_10.jpg"/>
-      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/7/0/307_8.jpg"/>
-      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/7/0/307_1.jpg"/>
-    </images>
-    <parameters>
-      <parameter name="Color">
-        <value name="Shades of pink"/>
-      </parameter>
-      <parameter name="Clasp">
-        <value name="Slip-on"/>
-      </parameter>
-      <parameter name="Outside material">
-        <value name="EVA material"/>
-      </parameter>
-      <parameter name="Insert">
-        <value name="EVA material"/>
-      </parameter>
-      <parameter name="Lining">
-        <value name="None"/>
-      </parameter>
-      <parameter name="Type of heel">
-        <value name="No heel"/>
-      </parameter>
-      <parameter name="Platform / Sole">
-        <value name="2,5 cm"/>
-      </parameter>
-      <parameter name="Insulation type">
-        <value name="No"/>
-      </parameter>
-    </parameters>
-    <size_chart name="36-23/37-23,5/38-24,5/39-25/40-25,5/41-26"/>
-  </product>
-  <product id="374" currency="PLN" code_on_card="LS-001 PINK">
-    <category name="Women's/Slides"/>
-    <card url="https://hurtownia.butosklep.pl/product-eng-374-Rubber-Flip-Flops-Lu-Boo-Pink.feed10037.html"/>
-    <name>Rubber Flip Flops Lu Boo Pink</name>
-    <long_description>&lt;p&gt;Lightweight rubber flip flops by Lu Boo. Get inspired by the gorgeous colors and create unique styles! &lt;/p&gt; &lt;p&gt;36-22.5/37-23.5/38-24.5/39-25/40-25.5/41-26 cm.&lt;/p&gt;</long_description>
-    <price_retail gross="9" netto="7.32"/>
-    <price_wholesale gross="8.61" netto="7" test=""/>
-    <sizes>
-      <size id="19" name="UK 3 1,2" code="374-19" quantity="28"/>
-      <size id="21" name="UK 4" code="374-21" quantity="15"/>
-    </sizes>
-    <images>
-      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/4/7/374_2.jpg"/>
-      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/4/7/374_3.jpg"/>
-      <image url=""/>
-    </images>
-    <parameters>
-      <parameter name="Color">
-        <value name="Shades of pink"/>
-      </parameter>
-      <parameter name="Clasp">
-        <value name="Slip-on"/>
-      </parameter>
-      <parameter name="Outside material">
-        <value name="Rubber"/>
-      </parameter>
-      <parameter name="Insert">
-        <value name="Caoutchouc"/>
-      </parameter>
-      <parameter name="Lining">
-        <value name="None"/>
-      </parameter>
-      <parameter name="Type of heel">
-        <value name="No heel"/>
-      </parameter>
-      <parameter name="Platform / Sole">
-        <value name="1,5 cm"/>
-      </parameter>
-      <parameter name="Insulation type">
-        <value name="No"/>
-      </parameter>
-    </parameters>
-    <size_chart name="36-22,5/37-23,5/38-24,5/39-25/40-25,5/41-26"/>
-  </product>
-  <product id="375" currency="PLN" code_on_card="LS-001 NAVY">
-    <category name="Women's/Slides"/>
-    <card url="https://hurtownia.butosklep.pl/product-eng-375-Rubber-Flip-Flops-Lu-Boo-Flip-Flops-Navy-Blue.feed10037.html"/>
-    <name>Rubber Flip Flops Lu Boo Flip Flops Navy Blue</name>
-    <long_description>&lt;p&gt;Lightweight rubber flip flops by Lu Boo. Get inspired by the gorgeous colors and create unique styles! &lt;/p&gt; &lt;p&gt;36-22.5/37-23.5/38-24.5/39-25/40-25.5/41-26 cm.&lt;/p&gt;</long_description>
-    <price_retail gross="9" netto="7.32"/>
-    <price_wholesale gross="8.61" netto="7" test=""/>
-    <sizes>
-      <size id="19" name="UK 3 1,2" code="375-19" quantity="13"/>
-    </sizes>
-    <images>
-      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/5/7/375_1.jpg"/>
-      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/5/7/375_3.jpg"/>
-      <image url=""/>
-    </images>
-    <parameters>
-      <parameter name="Color">
-        <value name="Shades of navy blue"/>
-      </parameter>
-      <parameter name="Clasp">
-        <value name="Slip-on"/>
-      </parameter>
-      <parameter name="Outside material">
-        <value name="Rubber"/>
-      </parameter>
-      <parameter name="Insert">
-        <value name="Caoutchouc"/>
-      </parameter>
-      <parameter name="Lining">
-        <value name="None"/>
-      </parameter>
-      <parameter name="Type of heel">
-        <value name="No heel"/>
-      </parameter>
-      <parameter name="Platform / Sole">
-        <value name="1,5 cm"/>
-      </parameter>
-      <parameter name="Insulation type">
-        <value name="No"/>
-      </parameter>
-    </parameters>
-    <size_chart name="36-22,5/37-23,5/38-24,5/39-25/40-25,5/41-26"/>
-  </product>
-  <product id="376" currency="PLN" code_on_card="LS-003 BLK">
-    <category name="Women's/Slides"/>
-    <card url="https://hurtownia.butosklep.pl/product-eng-376-Rubber-Flip-Flops-Lu-Boo-Black.feed10037.html"/>
-    <name>Rubber Flip Flops Lu Boo Black</name>
-    <long_description>&lt;p&gt;Lightweight rubber flip flops by Lu Boo. Get inspired by the gorgeous colors and create unique styles! &lt;/p&gt; &lt;p&gt;36-22.5/37-23.5/38-24.5/39-25/40-25.5/41-26 cm.&lt;/p&gt;</long_description>
-    <price_retail gross="9" netto="7.32"/>
-    <price_wholesale gross="8.61" netto="7" test=""/>
-    <sizes>
-      <size id="19" name="UK 3 1,2" code="376-19" quantity="16"/>
-    </sizes>
-    <images>
-      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/6/7/376_3.jpg"/>
-      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/6/7/376_2.jpg"/>
-      <image url=""/>
-    </images>
-    <parameters>
-      <parameter name="Color">
-        <value name="Multicolour"/>
-      </parameter>
-      <parameter name="Clasp">
-        <value name="Slip-on"/>
-      </parameter>
-      <parameter name="Outside material">
-        <value name="Rubber"/>
-      </parameter>
-      <parameter name="Insert">
-        <value name="Caoutchouc"/>
-      </parameter>
-      <parameter name="Lining">
-        <value name="None"/>
-      </parameter>
-      <parameter name="Type of heel">
-        <value name="No heel"/>
-      </parameter>
-      <parameter name="Platform / Sole">
-        <value name="1,5 cm"/>
-      </parameter>
-      <parameter name="Insulation type">
-        <value name="No"/>
-      </parameter>
-    </parameters>
-    <size_chart name="36-22,5/37-23,5/38-24,5/39-25/40-25,5/41-26"/>
-  </product>
-  <product id="377" currency="PLN" code_on_card="LS-002 PINK">
-    <category name="Women's/Slides"/>
-    <card url="https://hurtownia.butosklep.pl/product-eng-377-Rubber-Flip-Flops-Lu-Boo-Pink.feed10037.html"/>
-    <name>Rubber Flip Flops Lu Boo Pink</name>
-    <long_description>&lt;p&gt;Lightweight rubber flip flops by Lu Boo. Get inspired by the gorgeous colors and create unique styles! &lt;/p&gt; &lt;p&gt;36-22.5/37-23.5/38-24.5/39-25/40-25.5/41-26 cm.&lt;/p&gt;</long_description>
-    <price_retail gross="5" netto="4.07"/>
-    <price_wholesale gross="5" netto="4.07" test=""/>
-    <sizes>
-      <size id="19" name="UK 3 1,2" code="377-19" quantity="29"/>
-    </sizes>
-    <images>
-      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/7/7/377_3.jpg"/>
-      <image url="https://hurtownia.butosklep.pl/data/gfx/pictures/large/7/7/377_2.jpg"/>
-      <image url=""/>
-    </images>
-    <parameters>
-      <parameter name="Color">
-        <value name="Shades of pink"/>
-      </parameter>
-      <parameter name="Clasp">
-        <value name="Slip-on"/>
-      </parameter>
-      <parameter name="Outside material">
-        <value name="Rubber"/>
-      </parameter>
-      <parameter name="Insert">
-        <value name="Caoutchouc"/>
-      </parameter>
-      <parameter name="Lining">
-        <value name="None"/>
-      </parameter>
-      <parameter name="Type of heel">
-        <value name="No heel"/>
-      </parameter>
-      <parameter name="Platform / Sole">
-        <value name="1,5 cm"/>
-      </parameter>
-      <parameter name="Insulation type">
-        <value name="No"/>
-      </parameter>
-    </parameters>
-    <size_chart name="36-22,5/37-23,5/38-24,5/39-25/40-25,5/41-26"/>
-  </product>
-  </offers>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+<metadata>
+<ref_application_id>359775291691249</ref_application_id>
+<ref_asset_id>www.hurtowniaodziezy.net-33</ref_asset_id>
+</metadata>
+<item>
+<g:id>
+<![CDATA[ DZ7009_LOSOS ]]>
+</g:id>
+<title>
+<![CDATA[ Bluzka dziewczęca łosośowa DZ7009 ]]>
+</title>
+<g:description>Bluzka dziewczęca łososiowa</g:description>
+<g:category>Dziecięca > Dziewczynka </g:category>
+<link>https://www.hurtowniaodziezy.net/bluzka-dz7009-losos.html</link>
+<g:price>43.09 PLN</g:price>
+<g:sale_price>20.14 PLN</g:sale_price>
+<g:brand/>
+<g:image_link>https://www.hurtowniaodziezy.net/media/catalog/product/6/3/6379_3.jpg</g:image_link>
+<g:additional_image_link>https://www.hurtowniaodziezy.net/media/catalog/product/6/3/6379_1.jpg</g:additional_image_link>
+<g:additional_image_link>https://www.hurtowniaodziezy.net/media/catalog/product/6/3/6379_2.jpg</g:additional_image_link>
+<g:additional_image_link/>
+<g:group_products>Wyprzedaż</g:group_products>
+<Season/>
+<Color>Łososiowe</Color>
+<Pattern/>
+<Material/>
+<options>
+<option>
+<type>radio</type>
+<name>Size</name>
+<value>104</value>
+<quantity>3</quantity>
+<ean>5900000206660</ean>
+</option>
+<option>
+<type>radio</type>
+<name>Size</name>
+<value>110</value>
+<quantity>4</quantity>
+<ean>5900000206677</ean>
+</option>
+<option>
+<type>radio</type>
+<name>Size</name>
+<value>116</value>
+<quantity>3</quantity>
+<ean>5900000206684</ean>
+</option>
+<option>
+<type>radio</type>
+<name>Size</name>
+<value>98</value>
+<quantity>5</quantity>
+<ean>5900000206653</ean>
+</option>
+</options>
+<sizechart><div style="max-width:100%;padding:5px;float:left;"><b>Size : 104</b></br></div><div style="max-width:100%;padding:5px;float:left;"><b>Size : 110</b></br></div><div style="max-width:100%;padding:5px;float:left;"><b>Size : 116</b></br></div><div style="max-width:100%;padding:5px;float:left;"><b>Size : 98</b></br></div></sizechart>
+<fb_product_category>odzież i dodatki > odzież > ubrania dziecięce > odzież dla dziewcząt</fb_product_category>
+</item>
+<item>
+<g:id>
+<![CDATA[ DZ6038_BIALY ]]>
+</g:id>
+<title>
+<![CDATA[ Biała bluzka chłopięca DZ6038 ]]>
+</title>
+<g:description>Biała bluzka chłopięca.</g:description>
+<g:category>Dziecięca > Chłopiec</g:category>
+<link>https://www.hurtowniaodziezy.net/bluzka-dz6038-bialy.html</link>
+<g:price>43.90 PLN</g:price>
+<g:sale_price>20.52 PLN</g:sale_price>
+<g:brand/>
+<g:image_link>https://www.hurtowniaodziezy.net/media/catalog/product/_/m/_mg_0254_1.jpg</g:image_link>
+<g:additional_image_link>https://www.hurtowniaodziezy.net/media/catalog/product/_/m/_mg_0261.jpg</g:additional_image_link>
+<g:additional_image_link>https://www.hurtowniaodziezy.net/media/catalog/product/6/1/612_1-0263.jpg</g:additional_image_link>
+<g:additional_image_link>https://www.hurtowniaodziezy.net/media/catalog/product/b/i/bialykk.jpg</g:additional_image_link>
+<g:group_products>Wyprzedaż</g:group_products>
+<Season/>
+<Color>Białe</Color>
+<Pattern/>
+<Material/>
+<options>
+<option>
+<type>radio</type>
+<name>Size</name>
+<value>110</value>
+<quantity>2</quantity>
+<ean>5900000238159</ean>
+</option>
+</options>
+<sizechart><div style="max-width:100%;padding:5px;float:left;"><b>Size : 110</b></br></div></sizechart>
+<fb_product_category>odzież i dodatki > odzież > ubrania dziecięce > odzież dla chłopców</fb_product_category>
+</item>
+<item>
+<g:id>
+<![CDATA[ DZ6034_TURKUS ]]>
+</g:id>
+<title>
+<![CDATA[ T-shirt dziewczęcy z nadrukiem turkus DZ6034 ]]>
+</title>
+<g:description>T-shirt dziewczęcy z zabawnym nadrukiem turkus. Z krótkim rekawem. Idealny na co dzień. Bardzo ładnie prezentuję się na sylwetce.</g:description>
+<g:category>Dziecięca > Dziewczynka </g:category>
+<link>https://www.hurtowniaodziezy.net/bluzka-dz6034-turkus.html</link>
+<g:price>0.00 PLN</g:price>
+<g:sale_price/>
+<g:brand/>
+<g:image_link>https://www.hurtowniaodziezy.net/media/catalog/product/i/m/img_0215_2.jpg</g:image_link>
+<g:additional_image_link>https://www.hurtowniaodziezy.net/media/catalog/product/i/m/img_0206_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://www.hurtowniaodziezy.net/media/catalog/product/i/m/img_0202_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://www.hurtowniaodziezy.net/media/catalog/product/i/m/img_0226_3.jpg</g:additional_image_link>
+<g:group_products>Wyprzedaż</g:group_products>
+<Season/>
+<Color>Niebieskie</Color>
+<Pattern/>
+<Material/>
+<options/>
+<sizechart/>
+<fb_product_category>odzież i dodatki > odzież > ubrania dziecięce > odzież dla dziewcząt</fb_product_category>
+</item>
+<item>
+<g:id>
+<![CDATA[ DZ6034_SZARY ]]>
+</g:id>
+<title>
+<![CDATA[ T-shirt dziewczęcy z nadrukiem szary DZ6034 ]]>
+</title>
+<g:description>T-shirt dziewczęcy z zabawnym nadrukiem szary. Z krótkim rekawem. Idealny na co dzień. Bardzo ładnie prezentuję się na sylwetce.</g:description>
+<g:category>Dziecięca > Dziewczynka </g:category>
+<link>https://www.hurtowniaodziezy.net/bluzka-dz6034-szary.html</link>
+<g:price>0.00 PLN</g:price>
+<g:sale_price/>
+<g:brand/>
+<g:image_link>https://www.hurtowniaodziezy.net/media/catalog/product/i/m/img_0241.jpg</g:image_link>
+<g:additional_image_link>https://www.hurtowniaodziezy.net/media/catalog/product/i/m/img_0242_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://www.hurtowniaodziezy.net/media/catalog/product/i/m/img_0235_5.jpg</g:additional_image_link>
+<g:additional_image_link/>
+<g:group_products>Wyprzedaż</g:group_products>
+<Season/>
+<Color>Szare</Color>
+<Pattern/>
+<Material/>
+<options/>
+<sizechart/>
+<fb_product_category>odzież i dodatki > odzież > ubrania dziecięce > odzież dla dziewcząt</fb_product_category>
+</item>
+<item>
+<g:id>
+<![CDATA[ DZ6030_BIALY ]]>
+</g:id>
+<title>
+<![CDATA[ Biała bluzka chłopięca DZ6030 ]]>
+</title>
+<g:description>Biała bluzka chłopięca</g:description>
+<g:category>Dziecięca > Chłopiec</g:category>
+<link>https://www.hurtowniaodziezy.net/bluzka-dz6030-bialy.html</link>
+<g:price>43.09 PLN</g:price>
+<g:sale_price>20.14 PLN</g:sale_price>
+<g:brand/>
+<g:image_link>https://www.hurtowniaodziezy.net/media/catalog/product/7/6/7665_2.jpg</g:image_link>
+<g:additional_image_link>https://www.hurtowniaodziezy.net/media/catalog/product/7/6/7665_6.jpg</g:additional_image_link>
+<g:additional_image_link>https://www.hurtowniaodziezy.net/media/catalog/product/7/6/7665_2.jpg</g:additional_image_link>
+<g:additional_image_link/>
+<g:group_products>Wyprzedaż</g:group_products>
+<Season/>
+<Color>Białe</Color>
+<Pattern/>
+<Material/>
+<options>
+<option>
+<type>radio</type>
+<name>Size</name>
+<value>110</value>
+<quantity>1</quantity>
+<ean>5900000237268</ean>
+</option>
+<option>
+<type>radio</type>
+<name>Size</name>
+<value>140</value>
+<quantity>1</quantity>
+<ean>5900000237312</ean>
+</option>
+</options>
+<sizechart><div style="max-width:100%;padding:5px;float:left;"><b>Size : 110</b></br></div><div style="max-width:100%;padding:5px;float:left;"><b>Size : 140</b></br></div></sizechart>
+<fb_product_category>odzież i dodatki > odzież > ubrania dziecięce > odzież dla chłopców</fb_product_category>
+</item>
+</channel>
+</rss>
